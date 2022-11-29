@@ -34,7 +34,7 @@ minima:
 # - about.html
 
 # Build settings
-theme: minima
+theme: jekyll-theme-architect
 
 plugins:
  - jekyll-feed
