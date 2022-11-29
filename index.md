@@ -11,7 +11,7 @@ layout: home
 <h1 align="center">❤Hi 👋  I'm Crud628!❤</h1>
 <br>
 
-- 🔭 这是一个软工小伙的代码仓库
+- 🔭 这是一个软工小伙的博客
 - 🌱 随缘commit
 - 👯 会有机构的代码
 - 🤔 也有自己博客的代码
@@ -26,8 +26,5 @@ layout: home
 <a href=""><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/></a><a href=""><img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white"/></a><a href=""><img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/></a><a href=""><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/></a><a href=""><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/></a><a href=""><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
 <a href=""><img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"/></a><a href=""><img src="https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white"/></a><a href=""><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/></a><a href=""><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a></div>
 <br>
-
-| <a href="https://github.com/Crud628"><img algin="center" alt="Crud628" src="https://github-readme-stats.vercel.app/api?username=Crud628&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=0590ff" alt="Crud628's github stats"/></a> | <a href="https://github.com/Crud628"><img src="https://typora-imagebed.oss-cn-beijing.aliyuncs.com/img/WX.jpg" width=256 height=256 /></a> |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 <img align="" width="99.9%" src="https://activity-graph.herokuapp.com/graph?username=Crud628&theme=react-dark&color=0590ff&point=7e30a1&hide_border=true&line=0590ff&title_color=0590ff&icon_color=0590ff&text_color=0590ff&bg_color=9ca3af00&area=true" />
